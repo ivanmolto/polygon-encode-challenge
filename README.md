@@ -3,6 +3,7 @@
 This project demonstrates how to mint an NFT on Polygon using Hardhat and verify the contract on Polygonscan.
 
 The contract address is: 0x2e30280CA7E65701b2E3595135A9A9EEa8aA01aC
+
 Check it at Polygonscan Mumbai [link](https://mumbai.polygonscan.com/address/0x2e30280CA7E65701b2E3595135A9A9EEa8aA01aC)
 
 The contract is verified in Polygon Mumbai testnet at the following Polygonscan Mumbai [link](https://mumbai.polygonscan.com/address/0x2e30280CA7E65701b2E3595135A9A9EEa8aA01aC#code)
