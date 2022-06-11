@@ -35,6 +35,14 @@ Then Verify the smart contract by running this command:
 
 `npx hardhat verify "YOUR_CONTRACT_ADDRESS"  --network polygonMumbai`
 
+For this challenge these are the tools and languages used:
+- [Polygon Faucet](https://faucet.polygon.technology)
+- [Solidity](https://docs.soliditylang.org/en/v0.8.14)
+- [Hardhat](https://hardhat.org/)
+- [Alchemy](https://www.alchemy.com/)
+- [base64 encoder](https://www.utilities-online.info/base64)
+- [NFT.storage](https://nft.storage)
+
 
 ## About the NFT 
 
